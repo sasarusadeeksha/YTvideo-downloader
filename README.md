@@ -9,7 +9,6 @@ This is a beautiful, dark-themed desktop app built with Python that allows you t
 - 🎨 **Dark mode** with a clean and modern UI
 - 📂 **Choose download folder**
 - 💡 Built using `tkinter` and `pytube`
-- 🧩 Convert to `.exe` for Windows use (optional)
 
 ---
 
