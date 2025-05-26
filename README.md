@@ -13,21 +13,5 @@ This is a beautiful, dark-themed desktop app built with Python that allows you t
 
 ---
 
-## 📸 Screenshots
 
-> (You can add screenshots here. Example:)
-
-![App Screenshot](screenshot.png)
-
----
-
-## 🚀 How to Run
-
-### 🔧 Requirements
-
-- Python 3.7+
-- Install dependencies:
-
-```bash
-pip install pytube Pillow
 
